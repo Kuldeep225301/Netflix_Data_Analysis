@@ -1,4 +1,4 @@
-# 🎬 Netflix Data Analysis Using SQL
+#  Netflix Data Analysis Using SQL
 
 ## 📌 Project Overview
 
@@ -279,6 +279,6 @@ LIMIT 1;
 ## 👤 Author
 
 **Your Name**
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) · 💻 [GitHub](https://github.com/your-username)
+🔗 [LinkedIn](https://www.linkedin.com/in/kuldeep-kumar-a82833269/) · 💻 [GitHub]([https://github.com/your-username](https://github.com/Kuldeep225301/Netflix_Data_Analysis))
 
 ⭐ If you found this project useful, please give it a star!
