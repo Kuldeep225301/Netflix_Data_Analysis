@@ -279,6 +279,6 @@ LIMIT 1;
 ## 👤 Author
 
 **Your Name**
-🔗 [LinkedIn](https://www.linkedin.com/in/kuldeep-kumar-a82833269/) · 💻 [GitHub]([https://github.com/your-username](https://github.com/Kuldeep225301/Netflix_Data_Analysis))
+🔗 [LinkedIn](https://www.linkedin.com/in/kuldeep-kumar-a82833269/) · 💻 [GitHub](https://github.com/Kuldeep225301/Netflix_Data_Analysis)
 
 ⭐ If you found this project useful, please give it a star!
